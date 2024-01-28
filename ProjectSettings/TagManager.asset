@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Audio
+  - Ground
+  - Coin
+  - Trap
+  - Falling
+  - Objek
+  - NPC
+  - Enemy
+  - Weak Point
+  - Lava
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3214013671
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap
+    uniqueID: 2656468127
+    locked: 0
+  - name: Player
+    uniqueID: 121569415
+    locked: 0
+  - name: Objek
+    uniqueID: 1367431199
+    locked: 0
+  - name: Text Game
+    uniqueID: 1836187749
+    locked: 0
