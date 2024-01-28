@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5dcaaa52601660242b7802c074798307
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - background: {instanceID: 0}
+  - level_1: {instanceID: 0}
+  - level_2: {instanceID: 0}
+  - level_3: {instanceID: 0}
+  - hurt: {instanceID: 0}
+  - death: {instanceID: 0}
+  - jump: {instanceID: 0}
+  - collectibles: {instanceID: 0}
+  - buttonClick: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
