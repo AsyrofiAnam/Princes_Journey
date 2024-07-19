@@ -7,4 +7,4 @@ Halo kami dari Kelompok 3 RPL-B Universitas Muhammadiyah Sorong - LogicArcCode, 
 4. Indah Purnama Sari
 5. Elsha Novelin Lempangan
 
-Terima kasih.
+Terima kasih...
